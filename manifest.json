@@ -1,0 +1,38 @@
+{
+  "name": "Pendekar Blogspot | SBI Online",
+  "short_name": "Pendekar Blogspot",
+  "start_url": "https://www.site.biz.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#00aecd",
+  "description": "Jasa pembuatan website, membahas tutorial dan berbagi template free / premium (Khusus platform Blogger / Blogspot).",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s48/sbi.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s72/sbi.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s96/sbi.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s144/sbi.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s168/sbi.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s192/sbi.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-40WpmpdjrEk/WuKfVcSQ2TI/AAAAAAAAB64/IKpdTNuQK1A-vht4kB4xKdj7XwnVsE4mACLcBGAs/s512/sbi.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
