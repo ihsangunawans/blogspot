@@ -1,4 +1,6 @@
-//<![CDATA[
+var numposts = 5;
+var showpostthumbnails = false;
+var showpostdate = false;
 var relatedTitles=new Array();
 var relatedTitlesNum=0;
 var relatedUrls=new Array();
@@ -10,4 +12,3 @@ function contains(b,d){for(var c=0;c<b.length;c++){if(b[c]==d){return true}}retu
 function printRelatedLabels(a){for(var b=0;b<relatedUrls.length;b++){if(relatedUrls[b]==a){relatedUrls.splice(b,1);relatedTitles.splice(b,1)}}
 var c=Math.floor((relatedTitles.length-1)*Math.random());
 var b=0;if(relatedTitles.length>1)document.write("<ul>");while(b<relatedTitles.length&&b<20&&b<maxresults){document.write('<li><a href="'+relatedUrls[c]+'">'+relatedTitles[c]+"</a></li>");if(c<relatedTitles.length-1){c++}else{c=0}b++}document.write("</ul>");relatedUrls.splice(0,relatedUrls.length);relatedTitles.splice(0,relatedTitles.length)};
-//]]>
